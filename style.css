@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Brygada+1918:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Brygada+1918:ital,wght@1,500&family=Dokdo&display=swap');
+
+body{
+    background-image: url('https://roupinhasdebebe.org/wp-content/uploads/2021/09/desenho-de-flor-2419597-png.png'), url('https://roupinhasdebebe.org/wp-content/uploads/2021/09/desenho-de-flor-2419597-png.png');
+    background-size: 75px, 75px;
+    background-attachment: local, local;
+    background-repeat: repeat-y, repeat-y;
+    background-position: left , right ;
+    background-color: rgb(255, 183, 49);
+    font-style: normal;
+    font-family: "atma", system-ui;
+    
+}
+.atma-regular {
+    font-family: "Atma", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .dokdo-regular {
+    font-family: "Dokdo", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+*{
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    font-style: normal;
+    box-sizing: 0px;
+
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(352 600 120);
+    background-color: rgb(43, 57, 136);
+    padding: 2%;
+    margin: 6%;
+    margin-top: 1%;
+    
+}
+.labeleu{
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: "Dokdo", system-ui;
+}
+.image{
+    width: 450px;
+    height: 570px;
+    padding: auto;
+    margin: 15px;
+}
+.voltar{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-decoration: none;
+
+}
+
+.games{
+    width: 780px;
+    height: 550px;
+    padding: auto;
+    margin: 15px;
+}
+.voltar:hover{
+    background-color: rgba(129, 51, 180, 0.548);
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+    width: 300px;
+    background-color: rgba(192, 160, 18, 0.726);
+    padding: 10px;
+    margin: 10px;
+
+}
+.oi{
+    text-decoration: none;
+    color:rgb(255, 183, 49);
+}
+.video{
+    width: 550px;
+    height: 350px;
+    padding: 10px ;
+    margin: 15px;
+}
+.livro{
+    text-align: center;
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+}
